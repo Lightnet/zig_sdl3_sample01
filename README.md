@@ -1,7 +1,7 @@
 # zig_sdl3_sample01
 
 # SDL:
- - Version 3.1
+ - Version 3.1.2
  
 # Zig:
  - Version 0.12.0

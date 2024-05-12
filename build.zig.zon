@@ -58,10 +58,10 @@
         // in the same contents hash.
         "",
         // For example...
-        //"build.zig",
-        //"build.zig.zon",
-        //"src",
+        "build.zig",
+        "build.zig.zon",
+        "src",
         //"LICENSE",
-        //"README.md",
+        "README.md",
     },
 }
